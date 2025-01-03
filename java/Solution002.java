@@ -1,4 +1,5 @@
-class isPalindrome {
+//https://leetcode.com/problems/palindrome-number/
+class Solution002 {
     public boolean isPalindrome(int x) {
         long reversedNum=0;
         long copyX = (long)x;
